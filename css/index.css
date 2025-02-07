@@ -314,7 +314,7 @@ li{
         height: 100%;
         width: 50%;
         background-color: rebeccapurple;
-        background-image: url(img/con1.png);
+        background-image: url(../img/con1.png);
         background-size: cover;
         background-attachment: fixed;
     }
@@ -545,7 +545,7 @@ li{
         height: 100%;
         width: 50%;
         background-color: rebeccapurple;
-        background-image: url(img/con1.png);
+        background-image: url(../img/con1.png);
         background-size: cover;
         background-attachment: fixed;
     }
@@ -777,7 +777,7 @@ li{
         height: 100%;
         width: 50%;
         background-color: rebeccapurple;
-        background-image: url(img/con1.png);
+        background-image: url(../img/con1.png);
         background-size: cover;
         background-attachment: fixed;
     }
@@ -1097,7 +1097,7 @@ li{
         color: rgb(112, 192, 26);
     }
     .col{
-       height: 480px;
+       height: 520px;
        width:45%;
      
         
